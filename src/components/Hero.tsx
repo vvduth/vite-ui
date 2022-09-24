@@ -14,8 +14,8 @@ const Hero = () => {
         <div className="flex flex-row items-center py-[6px] px-4 bg-discount-gradient rounded-[10px] mb-2">
           <img src={discount} className="w-[32px] h-[32px] " />
           <p className={`${styles.paragraph} ml-2`}>
-            <span className="text-white">20%</span> Discount For{" "}
-            <span className="text-white">1 month</span> Accounts{" "}
+            <span className="text-white">Below</span> are all the things{" "}
+            <span className="text-white">that I believe</span> and keep me alive{" "}
           </p>
         </div>
         <div className="flex flex-row justify-between items-center w-full">
@@ -32,7 +32,7 @@ const Hero = () => {
         </h1>
 
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          Code, Sport, Gym. Repeat. Three guys with totally different worldviews and ambititions but end up the same situation.
+          Work, Sport, Gym. Repeat. Welcome to the new Era.
         </p>
       </div>
 

@@ -30,15 +30,14 @@ const Bussiness = () => {
     <section id="features" className={layout.section}>
       <div className={layout.sectionInfo}>
         <h2 className={styles.heading2}>
-          You do the bussiness, <br className="sm:block hidden" /> we will take
-          all the money.
+          I do not know if I can make it or not, <br className="sm:block hidden" /> that does not mean I stop trying.
         </h2>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
           The conditioning of clown world is very strong. It's everywhere and
           it's happening all the time without you realizing it. You have to
           learn to recognize their methods and resist to become their slave.
           Most of you are only surrounded by clown world people in your real
-          life where we are the biggest ones. We will scam all your money.
+          life where we are the biggest ones.
         </p>
 
         <Button styles="mt-10" />  

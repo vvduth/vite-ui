@@ -27,6 +27,7 @@ import gigachad from "./gigachad.jpg"
 import adam from "./adam.jpg"
 import silard from "./silard.png"
 import duc from "./duc.png"
+import michelg from "./michelg.png"
 export {
   airbnb,
   bill,
@@ -52,6 +53,7 @@ export {
   instagram,
   linkedin,
   duc,
+  michelg, 
   twitter,
   people01,
   people02,

@@ -2,6 +2,7 @@ import React from "react";
 import { feedback } from "../constants";
 import styles from "../style";
 import FeedBackCard from "./FeedBackCard";
+import { michelg } from "../assets";
 const Testimonials = () => {
   return (
     <section

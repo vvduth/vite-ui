@@ -1,4 +1,4 @@
-import { people01, people02, people03,duc,  silard,facebook, instagram,gigachad, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star, adam  } from "../assets";
+import { duc,  silard,facebook, instagram,gigachad, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star, adam, michelg  } from "../assets";
 
 export const navLinks = [
   {
@@ -23,23 +23,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "CCP+ rules",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Divine responsibility to become not only CAPABLE , COMPETENT, POWERFUL (Physically, Mentally and Emotionally) but address all aspects of life with Professionalism and Integrity",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "100% Focus",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "Understand that we can not have fun without drinking/partying. Sacrifice fun. Cut off 100% distraction. No rolling with losers. Work 10 hours and train 2 hours every day. Strong mind goes with strong body.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Good citizen",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Support and live under GOOD and HONEST governments and you should OBEY all laws but find ways to BEND them as me deem fit.",
   },
 ];
 
@@ -68,23 +68,37 @@ export const feedback = [
     title: "Founder & Leader",
     img: duc,
   },
+  {
+    id: "feedback-4",
+    content: `They want you to be a cog in the machine.
+
+    They want you to be "comfortable".
+    
+    They spend billions of $ on programming to pacify yo.u 
+    
+    They have brainwashed your own family to encourage you to avoid risk under the guise of "wanting what's best for you".
+    `,
+    name: "Professor Michael G",
+    title: "Economy Master",
+    img: michelg
+  }
 ];
 
 export const stats = [
   {
     id: "stats-1",
     title: "Members Active",
-    value: "3+",
+    value: "3",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
-    value: "0+",
+    title: "Give up",
+    value: "0",
   },
   {
     id: "stats-3",
-    title: "Transaction on grocery",
-    value: "$20M+",
+    title: "Big dreams",
+    value: "3+",
   },
 ];
 

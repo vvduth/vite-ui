@@ -1,4 +1,4 @@
-import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
+import { people01, people02, people03,duc,  silard,facebook, instagram,gigachad, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star, adam  } from "../assets";
 
 export const navLinks = [
   {
@@ -47,26 +47,26 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Herman Jensen",
-    title: "Founder & Leader",
-    img: people01,
+      "Young kings, we  know they must surround themselves with high energy people with purpose to get their shit together. To put in the work over time.",
+    name: "Prof Adam",
+    title: "Investor & Finance Expert",
+    img: adam,
   },
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
-    name: "Steve Mark",
-    title: "Founder & Leader",
-    img: people02,
+      "Most of you are only surrounded by clown world people in your real life. Here is your escape from the clown world. This can take a while but with hard work you will get there.",
+    name: "Professor Silard",
+    title: "NFT Apprentice & DeFi Expert",
+    img: silard,
   },
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Kenn Gallagher",
+      "Nothing is impossible brothers, within your hands you hold limitless power, do not let your ancestors be disappointed with what you have achieved with the life you have been given and the sacrifices made for you to be where you are at this moment in time",
+    name: "Duc Thai",
     title: "Founder & Leader",
-    img: people03,
+    img: duc,
   },
 ];
 

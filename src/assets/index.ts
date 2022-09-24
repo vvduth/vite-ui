@@ -24,7 +24,9 @@ import people01 from "./people01.png";
 import people02 from "./people02.png";
 import people03 from "./people03.png";
 import gigachad from "./gigachad.jpg"
-
+import adam from "./adam.jpg"
+import silard from "./silard.png"
+import duc from "./duc.png"
 export {
   airbnb,
   bill,
@@ -34,12 +36,14 @@ export {
   dropbox,
   logo,
   quotes,
+  silard,
   robot,
   send,
   shield,
   star,
   menu,
   close,
+  adam,
   google,
   apple,
   arrowUp,
@@ -47,6 +51,7 @@ export {
   facebook,
   instagram,
   linkedin,
+  duc,
   twitter,
   people01,
   people02,

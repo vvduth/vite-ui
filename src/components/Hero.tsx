@@ -37,8 +37,8 @@ const Hero = () => {
       </div>
 
       <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}>
-        {/* <img src={gigachad} alt="billing" className="w-[90%] h-[85%] relative-z-[5] rounded-full"/> */}
-        <img src={robot} alt="billing" className="w-[100%] h-[100%] relative-z-[5]"/>
+         <img src={gigachad} alt="billing" className="w-[90%] h-[85%] relative-z-[5] rounded-full"/> 
+        {/* <img src={robot} alt="billing" className="w-[100%] h-[100%] relative-z-[5]"/> */}
         <div className="absolute z-[0] w-[40%] top-0 h-[35%] pink__gradient"/>
         <div className="absolute z-[1] w-[80%] top-0 h-[80%] rounded-full bottom-40 white__gradient"/>
         <div className="absolute z-[0] w-[50%] top-0 h-[50%] right-20 bottom-20 blue__gradient"/>
